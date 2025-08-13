@@ -1,7 +1,7 @@
 {
   "versionCode": 59,
   "versionName": "2.13",
-  "isMandatory": false,
+  "isMandatory": true,
   "mandatoryMessage": "Critical update required",
   "optionalMessage": "New features available",
   "updateUrl": "https://play.google.com/store/apps/details?id=com.doomshell.ezypayroll"
