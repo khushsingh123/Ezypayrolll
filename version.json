@@ -1,6 +1,6 @@
 {
-  "versionCode": 71,
-  "versionName": "2.29",
+  "versionCode": 70,
+  "versionName": "2.28",
   "isMandatory": true,
   "mandatoryMessage": "Critical update required",
   "optionalMessage": "New features available",
